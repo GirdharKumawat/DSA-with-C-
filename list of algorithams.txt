@@ -1,0 +1,40 @@
+Basic Algorithms :-
+
+Huffman Coding(Compression Algorithm)
+Euclid's Algorithm
+Union Find Algorithm
+Searching Algorithms :-
+
+Binary Search
+Linear Search
+Depth First Search
+Breadth First Search
+Sorting Algorithms :-
+
+Insertion Sort
+Selection Sort
+Heap Sort
+Merge Sort
+Quick Sort
+Counting Sort
+Arrays Algorithms :-
+
+Kadane's Algorithm
+Floyd's Algorithm (Detection Algorithm)
+KMP Algorithm
+Quick Select Algorithm
+Boyer-More Majority (Vote Algorithm)
+Graphs Algorithms :-
+
+Kruskal's Algorithm
+Dijkstra's Algorithm
+Bellman Ford Algorithm
+Floyd Warshall Algorithm
+Topological Sort Algorithm
+Flood Fill Algorithm
+Lee Algorithm
+Extra
+
+Radix Sort under Sorting
+Two pointers (sliding window) algorithm under Arrays.
+
